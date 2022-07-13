@@ -30,7 +30,7 @@
   		<td style="width:12%">{{$producto->categoria}}</td>
   		<td style="width:9%">{{$producto->precio}}</td>
   		<td style="width:15%">
-        <a href="https://res.cloudinary.com/huella-verde-db/image/upload/{{$producto->imagen}}" target="_blank" type="button" class="btn btn-success">Ver imagen</a>
+        <a href="https://res.cloudinary.com/huellaverdebd/image/upload/{{$producto->imagen}}" target="_blank" type="button" class="btn btn-success">Ver imagen</a>
         <a href="productos/editImagen/{{$producto->id}}" type="button" class="btn btn-warning">Cambiar Imagen</a>
       </td>
   		<td>{{$producto->descripcion}}</td>
