@@ -1,0 +1,88 @@
+.btn-success{
+    color: #126e1b !important; 
+    background-color: #d6e7ce !important;
+    border-color: #126e1b !important;
+}
+
+.btn-success:hover{
+    color: #0B4611 !important;
+    background-color: #A3C992 !important;
+    border-color: #0B4611 !important;
+}
+
+.btn-danger {
+    color: #B80006 !important;
+    background-color: #F2CFD1 !important;
+    border-color: #B80006 !important;
+}
+.btn-danger:hover {
+    color: #B03037 !important;
+    background-color: #E08F92 !important;
+    border-color: #B03037 !important;
+}
+
+.btn-warning {
+    color: #544933 !important;
+    background-color: #EBD9B4 !important;
+    border-color: #544933 !important;
+}
+.btn-warning:hover {
+    color: #544933 !important;
+    background-color: #DFC185 !important;
+    border-color: #544933 !important;
+}
+
+.table{
+    --bs-table-hover-bg: #EAF1E4 !important;
+    width: 99% !important;
+}
+
+.navbar-light .navbar-brand {
+    color: #126e1b !important;
+}
+
+.dropdown-item{
+    color: #126e1b !important;
+}
+
+.dropdown-item:hover{
+    background-color: #d6e7ce !important;
+}
+
+.form-label{
+    color: #126e1b !important;
+    font-weight: bold !important;
+}
+
+.btn-link{
+    color: #126e1b !important;
+}
+
+.card-header{
+    background-color: #d6e7ce !important;
+    color: #126e1b !important;
+}
+
+.form-check-input:checked {
+  background-color: #8CBC76 !important;
+  border-color: #8CBC76 !important;
+}
+
+.h3custom{
+    color: #126e1b !important;
+    font-weight: bold !important;
+}
+
+.page-link {
+    color: #126e1b !important;
+}
+
+.a {
+    color: #126e1b !important;
+}
+
+.page-item.active .page-link {
+    color: #126e1b !important; 
+    background-color: #d6e7ce !important;
+    border-color: #126e1b !important;
+}
